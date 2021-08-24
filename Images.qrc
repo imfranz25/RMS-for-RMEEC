@@ -1,0 +1,45 @@
+<RCC>
+  <qresource prefix="Backgrounds">
+    <file>Assets/architectural_bg.png</file>
+    <file>Assets/civil_bg.png</file>
+    <file>Assets/elec_bg.png</file>
+    <file>Assets/fire_bg.png</file>
+    <file>Assets/mech_bg.png</file>
+    <file>Assets/plumb_bg.png</file>
+    <file>Assets/Account_Page_Bg.png</file>
+    <file>Assets/DashboardBg.png</file>
+    <file>Assets/LoginBg.png</file>
+  </qresource>
+  <qresource prefix="Icons">
+    <file>Assets/CancelIcon.png</file>
+    <file>Assets/LessIcon.png</file>
+    <file>Assets/SearchIcon.png</file>
+    <file>Assets/SaveIcon.png</file>
+    <file>Assets/AddIcon.png</file>
+    <file>Assets/BackIcon.png</file>
+    <file>Assets/EditIcon.png</file>
+    <file>Assets/FormCancelIcon.png</file>
+    <file>Assets/FormClearIcon.png</file>
+    <file>Assets/FormSubmitIcon.png</file>
+    <file>Assets/OpenIcon.png</file>
+    <file>Assets/PrintIcon.png</file>
+    <file>Assets/RemoveIcon.png</file>
+    <file>Assets/UploadIcon.png</file>
+    <file>Assets/ContinueIcon.png</file>
+    <file>Assets/Profile.png</file>
+    <file>Assets/archive_icons.png</file>
+    <file>Assets/dash_icons.png</file>
+    <file>Assets/employee_icons.png</file>
+  </qresource>
+  <qresource prefix="Buttons">
+    <file>Assets/add_button.png</file>
+    <file>Assets/edit_button.png</file>
+    <file>Assets/logout_button.png</file>
+    <file>Assets/project_button.png</file>
+    <file>Assets/account_button.png</file>
+    <file>Assets/archive_button.png</file>
+    <file>Assets/dashboard_button.png</file>
+    <file>Assets/edit_history_button.png</file>
+    <file>Assets/employee_button.png</file>
+  </qresource>
+</RCC>
