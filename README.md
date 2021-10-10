@@ -1,6 +1,6 @@
 # RMS-for-RMEEC
 # Group Project
-A repository for System Analysis and Design Final Project - "Record Management System for RMEEC Engineering Services"
+A repository for System Analysis and Design Final Project - "Record Management System for RMEEC Engineering Services" (Group Project)
 
 Main Features:
 - Employee Management
